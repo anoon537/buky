@@ -5,12 +5,11 @@ Layanan yang tersedia pada website yaitu : <br/>
 total anggota <br/>
 total buku<br/>
 total peminjaman buku <br/>
-Untuk tampilan admin diantaranya <br/>
-login admin<br/>
+Untuk tampilan admin diantaranya
 hapus anggota, hapus data buku, dan hapus data peminjaman
 mendaftarkan anggota baru dengan mengisi ID member, nama, alamat, dan nomor telepon
 menambahkan data buku dengan mengisi ID buku, judul, pengarang, dan penerbit
-menambahkan data peminjaman dengan mengisi ID buku, ID member, tanggal peminjaman, dan tanggal kembali
+menambahkan data peminjaman dengan mengisi ID buku, ID member, tanggal peminjaman, dan tanggal kembali.
 
 # TeamFive
 
