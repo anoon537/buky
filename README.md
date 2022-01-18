@@ -14,8 +14,8 @@ menambahkan data peminjaman dengan mengisi ID buku, ID member, tanggal peminjama
 
 # TeamFive
 
-Project Manager	: Febiana Nurhaeni Angelika Lumban G/20102119
-Analyst			    : Naeli Fitria Rokhmawati/20102081
-Designer 		    : Avief Reja Satria/20102044
-Data Engineer		: Diki Wahyudi/20102093
+Project Manager	: Febiana Nurhaeni Angelika Lumban G/20102119 <br/>
+Analyst			    : Naeli Fitria Rokhmawati/20102081 <br/>
+Designer 		    : Avief Reja Satria/20102044 <br/>
+Data Engineer		: Diki Wahyudi/20102093 <br/>
 Programmer		  : Muhammad Mahmuda Prawira/20102051
