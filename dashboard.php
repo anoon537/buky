@@ -47,11 +47,6 @@ require 'config/fungsi.php';
           </a>
           <hr class="bg-secondary">
         </li>
-        <li class="nav-item">
-          <a class="nav-link text-white" >
-          </a>
-          <hr class="bg-secondary">
-        </li>
       </ul>
     </div>
 
@@ -124,7 +119,7 @@ require 'config/fungsi.php';
       </div>
       <!--penutup class row-->
       <!-- pembuka class row-->
-      <div class="row mt-4"></div>
+
 
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
